@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "@yarn-ts-workspace/common",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
